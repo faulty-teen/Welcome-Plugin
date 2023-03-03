@@ -1,4 +1,4 @@
-This is a plugin for BetterDiscord, this plugin will welcome you to discroed every time you boot it using a cold start.
+This is a plugin for BetterDiscord, this plugin will welcome you to discord every time you boot it using a cold start.
 ![image](https://user-images.githubusercontent.com/123210633/222764686-5548bdc3-620a-49be-a0b1-373e7f7c42a0.png)
 
 
