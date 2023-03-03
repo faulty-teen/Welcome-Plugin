@@ -8,16 +8,12 @@
 
 module.exports = class MyPlugin {
   constructor(meta) {
-    // Do stuff in here before starting
+    
   }
   start() {
  BdApi.alert("Hello", "Welcome to Discord.")
-
-
-    
-    // Do stuff when enabled
   }
   stop() {
-    // Cleanup when disabled
+    
   }
 };
